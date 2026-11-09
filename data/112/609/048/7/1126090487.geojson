@@ -67,7 +67,6 @@
         {
             "continent_id":102191581,
             "country_id":85633147,
-            "county_id":1091680781,
             "locality_id":-1,
             "macrocounty_id":1108805929,
             "neighbourhood_id":1126090487,
@@ -75,8 +74,6 @@
         },
         {
             "continent_id":102191577,
-            "country_id":85632233,
-            "county_id":1091680781,
             "locality_id":-1,
             "macrocounty_id":1108805929,
             "neighbourhood_id":1126090487,
