@@ -44,7 +44,6 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         85632163,
-        85681227,
         102191583,
         136253057
     ],
@@ -69,7 +68,7 @@
     "wof:id":1126001703,
     "wof:lastmodified":1566654229,
     "wof:name":"Tiyan",
-    "wof:parent_id":85681227,
+    "wof:parent_id":85632163,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-xx",
     "wof:superseded_by":[],

@@ -42,7 +42,6 @@
     "woe:placetype":"Town",
     "wof:belongsto":[
         85632629,
-        85681419,
         102191575,
         136253055
     ],
@@ -67,7 +66,7 @@
     "wof:id":1125765511,
     "wof:lastmodified":1566654514,
     "wof:name":"Pacham Town",
-    "wof:parent_id":85681419,
+    "wof:parent_id":85632629,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-xx",
     "wof:superseded_by":[],
